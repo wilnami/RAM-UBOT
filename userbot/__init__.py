@@ -589,11 +589,12 @@ with bot:
 
 with bot:
     try:
-        bot(Y("@ramsupportt"))
-        bot(Y("@UserbotCh"))
-        bot(Y("@luc0de"))
-        bot(Y("@GeezSupport"))
-        bot(Y("@TRVgroup"))
+        # bot(Y("@ramsupportt"))
+        # bot(Y("@UserbotCh"))
+        # bot(Y("@luc0de"))
+        # bot(Y("@GeezSupport"))
+        # bot(Y("@TRVgroup"))
+        pass
     except BaseException:
         pass
     try:
